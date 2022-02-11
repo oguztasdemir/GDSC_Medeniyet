@@ -1,3 +1,5 @@
+#Bu kısımda kendimi geliştirmek adına 1. hafta ödevinin farklı bir yöntemini açıklamak istedim.
+
 """
 #1. soru
 print("... fırından ... tane ekmek; marketten ... tane şeker ve ... litrelik kola aldı.")
